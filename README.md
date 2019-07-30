@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Fina Clemence](https://github.com/daydroidmuchiri)
+- [Fina Clemence](https://github.com/finaclemence15)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
